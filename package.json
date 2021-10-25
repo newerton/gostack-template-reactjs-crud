@@ -29,7 +29,7 @@
     "@types/styled-components": "^5.1.0",
     "@types/yup": "^0.29.11",
     "@typescript-eslint/eslint-plugin": "^5.1.0",
-    "@typescript-eslint/parser": "^4.19.0",
+    "@typescript-eslint/parser": "^5.1.0",
     "axios-mock-adapter": "^1.18.1",
     "eslint": "^8.0.1",
     "eslint-config-airbnb": "^18.1.0",
